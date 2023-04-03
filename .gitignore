@@ -1,3 +1,4 @@
 *.hi
 *.o
-plaidIdentityInterview.*
+plaidIdentityInterview*
+plaid-identity-interview/
