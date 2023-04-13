@@ -1,0 +1,5 @@
+:set -Wall
+:set -XDerivingStrategies
+:set -XGeneralizedNewtypeDeriving
+:set -XOverloadedStrings
+:load Main
