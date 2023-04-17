@@ -2,3 +2,5 @@
 *.o
 plaidIdentityInterview*
 plaid-identity-interview/
+lunch-line/dist-newstyle/
+LunchLine/dist-newstyle/
